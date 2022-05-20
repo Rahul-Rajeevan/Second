@@ -1,5 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
+import Qwe from './components/Qwe';
+
 
 function App() {
   return (
